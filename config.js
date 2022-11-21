@@ -39,8 +39,8 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6282376267531', 'owner', true],
-['6281361281833', 'owner', true]
+['6288803786974', 'owner', true],
+['6288803786974', 'owner', true]
 ]
 global.mods = []
 global.prems = []
@@ -55,11 +55,11 @@ global.nomorwa = '0'
 
 global.readMore = readMore
 global.author = 'Created By owner'
-global.namebot = 'bot 𝐌𝐝'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 bot 𝐌𝐝'
+global.namebot = 'Habib 𝐌𝐝'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Habib 𝐌𝐝'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
-global.wm2 = 'bot 𝑴𝒅 '
+global.wm2 = 'Habib 𝑴𝒅 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
