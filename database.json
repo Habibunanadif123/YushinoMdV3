@@ -2,7 +2,7 @@
   "users": {
     "6285371753939@s.whatsapp.net": {
       "exp": 8,
-      "limit": 100,
+      "limit": 10000,
       "lastclaim": 0,
       "registered": false,
       "name": "Pipit Syahfitri",
@@ -13,11 +13,11 @@
       "afkReason": "",
       "banned": false,
       "warn": 0,
-      "level": 0,
+      "level": 99,
       "role": "Bronze V",
       "autolevelup": true,
       "money": 0,
-      "bank": 0,
+      "bank": 89,
       "atm": 0,
       "fullatm": 0,
       "health": 100,
@@ -68,8 +68,8 @@
       "lastbunga": 0,
       "note": 0,
       "premium": false,
-      "premiumTime": 0,
-      "limitjoin": 0,
+      "premiumTime": 9999,
+      "limitjoin": 90,
       "pc": 1666723060716
     },
     "6283838186170@s.whatsapp.net": {
